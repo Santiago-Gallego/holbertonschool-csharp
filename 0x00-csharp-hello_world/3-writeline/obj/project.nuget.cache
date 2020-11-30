@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DiwKC1S21tV4MFysnHJrNtyXMEndwSIENTgKgIQzfKCjLkTdgvj3JpbSU09orrQ7TDPj9O2FPDSJ8zJlcXdPkw==",
+  "dgSpecHash": "LZSM288EmHxM7XQqNyFONHkNfDvcStp/ERZwLsru9kFTi/qevQncFs70t8VVmrh+Y07szrYnyBIlmzeXfrQ3+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
+  "projectFilePath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

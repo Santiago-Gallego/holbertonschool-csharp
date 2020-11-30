@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\netcoreapp3.1\7-concat.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\netcoreapp3.1\7-concat.genruntimeconfig.cache

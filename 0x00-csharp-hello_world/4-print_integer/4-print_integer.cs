@@ -1,13 +1,9 @@
-using System;
-
-namespace _4_print_integer
+﻿using System;
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
             int number = 972;
-            Console.WriteLine(number + " Mission Street");
-        }
+            Console.WriteLine("{0} Mission Street", number);
     }
 }

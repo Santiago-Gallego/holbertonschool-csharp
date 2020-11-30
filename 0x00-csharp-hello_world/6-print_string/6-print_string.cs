@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace _6_print_string
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
             string str = "Holberton School";
-            Console.WriteLine("{0}", str);
-        }
+            string res = str.Split(' ')[0];;
+            Console.Write("{0}{0}{0}" + "\n", str);
+            Console.WriteLine(res);
     }
 }

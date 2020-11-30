@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWBVL9emNK2dxkSY6B3C2x3ODtXPKAAqI4/g0xp6lF24TnZyzqJUQFS381YIhCs4Y3RZ5v5UidLkN2Zq01vmXg==",
+  "dgSpecHash": "JnrsOyEBeuN3TeZqIs8nqkqEdCe5DOR651xmtmGBSsRVNP6M480609/TGjth4H6PfTmiqIfbP6NsTen3QHDwzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\7-concat\\7-concat.csproj",
+  "projectFilePath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\7-concat\\7-concat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

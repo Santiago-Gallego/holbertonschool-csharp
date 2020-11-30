@@ -1,30 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj": {}
+    "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj": {
+    "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj",
+        "projectUniqueName": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj",
         "projectName": "6-print_string",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj",
-        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\obj\\",
+        "projectPath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\6-print_string.csproj",
+        "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+        "outputPath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\6-print_string\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -35,8 +34,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

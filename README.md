@@ -1,1 +1,1 @@
-# holbertonschool-csharp
+C# repository, specialization curriculum developement

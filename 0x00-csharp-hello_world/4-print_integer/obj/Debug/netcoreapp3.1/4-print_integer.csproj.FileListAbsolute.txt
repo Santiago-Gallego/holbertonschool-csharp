@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp3.1\4-print_integer.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp3.1\4-print_integer.genruntimeconfig.cache

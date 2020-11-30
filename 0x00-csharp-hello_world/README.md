@@ -1,1 +1,2 @@
-this is a readme
+Hello World,
+A new beginning with C#

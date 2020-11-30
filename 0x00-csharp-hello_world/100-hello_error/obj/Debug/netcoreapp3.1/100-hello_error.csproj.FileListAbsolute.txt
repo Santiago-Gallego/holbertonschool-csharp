@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp3.1\100-hello_error.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp3.1\100-hello_error.genruntimeconfig.cache

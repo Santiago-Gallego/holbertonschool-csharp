@@ -1,9 +1,12 @@
 ﻿using System;
 
-class Program
+namespace _3_writeline
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("\"Programming is like building a multilingual puzzle");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\"Programming is like building a multilingual puzzle");
+        }
     }
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-mkdir 100-hello_error
-cd 100-hello_error
+mkdir 2-new_project
+cd 2-new_project
 dotnet new console
 dotnet build
 dotnet run

@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\bin\Debug\netcoreapp3.1\5-print_float.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x00-csharp-hello_world\5-print_float\obj\Debug\netcoreapp3.1\5-print_float.genruntimeconfig.cache

@@ -1,36 +1,35 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Santiago\\.nuget\\packages\\": {}
+    "C:\\Users\\laura\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
+      "projectUniqueName": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
       "projectName": "3-writeline",
-      "projectPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
-      "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\obj\\",
+      "projectPath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\3-writeline.csproj",
+      "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+      "outputPath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x00-csharp-hello_world\\3-writeline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -41,8 +40,7 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
