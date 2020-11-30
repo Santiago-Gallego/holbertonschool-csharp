@@ -1,10 +1,13 @@
 ﻿using System;
 
-class Program
+namespace _5_print_float
 {
-	static void Main(string[] args)
+    class Program
+    {
+        static void Main(string[] args)
         {
-		float number = 3.14159f;
-		Console.WriteLine("Float: {0:0.00}", number);
+            float number = 3.14159f;
+            Console.WriteLine("Float: {0:0.00}", number);
         }
+    }
 }

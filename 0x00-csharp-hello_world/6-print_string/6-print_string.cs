@@ -1,10 +1,13 @@
 ﻿using System;
 
-class Program
+namespace _6_print_string
 {
-	static void Main(string[] args)
-	{
-		string str = "Holberton School";
-        Console.WriteLine("{0}",str);
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str = "Holberton School";
+            Console.WriteLine("{0}", str);
+        }
     }
 }
