@@ -1,0 +1,16 @@
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.exe
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.deps.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.runtimeconfig.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\ref\7-concat.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\bin\Debug\net5.0\7-concat.pdb
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\ref\7-concat.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.pdb
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\7-concat\obj\Debug\net5.0\7-concat.genruntimeconfig.cache

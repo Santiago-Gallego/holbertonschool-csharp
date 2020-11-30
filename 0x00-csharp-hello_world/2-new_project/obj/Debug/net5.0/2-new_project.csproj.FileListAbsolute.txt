@@ -1,0 +1,16 @@
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.exe
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.deps.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.runtimeconfig.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\ref\2-new_project.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\bin\Debug\net5.0\2-new_project.pdb
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\ref\2-new_project.dll
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.pdb
+C:\Users\Santiago\Desktop\holberton especializacion\holbertonschool-csharp\0x00-csharp-hello_world\2-new_project\obj\Debug\net5.0\2-new_project.genruntimeconfig.cache
