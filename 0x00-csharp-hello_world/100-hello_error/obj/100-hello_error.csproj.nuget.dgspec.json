@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\100-hello_error\\100-hello_error.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\100-hello_error\\100-hello_error.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\100-hello_error\\100-hello_error.csproj",
+        "projectName": "100-hello_error",
+        "projectPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\100-hello_error\\100-hello_error.csproj",
+        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Santiago\\Desktop\\holberton especializacion\\holbertonschool-csharp\\0x00-csharp-hello_world\\100-hello_error\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
