@@ -13,8 +13,8 @@ namespace _100_jagged_array
                 new int[] {0, 1}
             };
             for (int i = 0; i < jagged.Length; i++) {
-                for (int j = 0; j < jagged[x].Length; j++)
-                    Console.Write("{0}{1}", jagged[i][j], y == (jagged[i].Length -1) ? "" : " ");
+                for (int j = 0; j < jagged[i].Length; j++)
+                    Console.Write("{0}{1}", jagged[i][j], j == (jagged[i].Length -1) ? "" : " ");
                 Console.WriteLine();
             }
         }
