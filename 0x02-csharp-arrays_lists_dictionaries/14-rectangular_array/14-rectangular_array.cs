@@ -9,7 +9,13 @@ namespace _14_rectangular_array
             int[,] array = new int[5, 5];
             array[2, 2] = 1;
             for (int i = 0; i < 5; i++) {
-                Console.WriteLine("{0} {1} {2} {3} {4}", array[i, 0], array[i, 1], array[i, 2], array[i, 3], array[i, 4]);
+                for (int j = 0; j < 5; j++) {
+                    if (j < 4)
+                        Console.Write(array[i,j] + " ");
+                    else
+                        Console.Write(array[i,j]);
+                }
+                Console.WriteLine();
             }
         }
     }
