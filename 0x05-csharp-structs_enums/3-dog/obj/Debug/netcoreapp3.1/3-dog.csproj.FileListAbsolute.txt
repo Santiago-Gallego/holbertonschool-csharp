@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp3.1\3-dog.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp3.1\3-dog.genruntimeconfig.cache

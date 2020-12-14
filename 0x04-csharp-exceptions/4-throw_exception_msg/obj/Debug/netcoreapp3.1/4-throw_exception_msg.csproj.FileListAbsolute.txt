@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\bin\Debug\netcoreapp3.1\4-throw_exception_msg.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x04-csharp-exceptions\4-throw_exception_msg\obj\Debug\netcoreapp3.1\4-throw_exception_msg.genruntimeconfig.cache
