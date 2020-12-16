@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> Represents a Zombie class </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>Gets and sets name of Zombie</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Initializes a new instance of the <see cref="T:Enemies.Zombie"/> 
+            class and takes <paramref name="value"/></summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>Returns the health value of a Zombie object</summary>
+        </member>
+    </members>
+</doc>

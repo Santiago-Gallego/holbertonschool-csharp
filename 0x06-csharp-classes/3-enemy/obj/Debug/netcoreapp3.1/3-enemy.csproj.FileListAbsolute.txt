@@ -1,0 +1,14 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\obj\Debug\netcoreapp3.1\3-enemy.genruntimeconfig.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x06-csharp-classes\3-enemy\bin\Debug\netcoreapp3.1\3-enemy.xml
