@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qbnm7jh4T84RPA0dwE1F6KNLwoJKOHGb6aY3n25F5NSLRzOL27gLYcRKcKH59cm1/v9TyTmrj6yZ9JU4lMRLXg==",
+  "success": true,
+  "projectFilePath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x07-csharp-tdd\\1-divide\\MyMath\\MyMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
