@@ -1,0 +1,14 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp3.1\3-type_get.genruntimeconfig.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp3.1\3-type_get.xml

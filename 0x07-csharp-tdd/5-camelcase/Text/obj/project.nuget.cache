@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiqc6gA5g8sxzI5Ow+9YNbdJGAiqDr9GSlg2/B9iDZ75kqLcBjV0nw/6aMxhmW9WfoSFigJjK6d8f3nk3r0KWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Holberton\\Specialization\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

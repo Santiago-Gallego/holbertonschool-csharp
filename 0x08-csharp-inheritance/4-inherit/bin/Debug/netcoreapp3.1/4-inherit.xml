@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-inherit</name>
+    </assembly>
+    <members>
+        <member name="T:Animal">
+            <summary> Represents a class Animal</summary>
+        </member>
+    </members>
+</doc>

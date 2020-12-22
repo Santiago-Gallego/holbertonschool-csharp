@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary> Represents a class Obj</summary>
+        </member>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary> Method that verifies if object obj is an instance of 
+            a class that inhetited from Array</summary>
+        </member>
+    </members>
+</doc>

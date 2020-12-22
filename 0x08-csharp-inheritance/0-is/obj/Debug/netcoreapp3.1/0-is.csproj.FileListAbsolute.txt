@@ -1,0 +1,14 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.genruntimeconfig.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.xml

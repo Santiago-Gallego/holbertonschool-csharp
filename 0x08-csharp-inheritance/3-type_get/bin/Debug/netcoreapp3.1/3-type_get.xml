@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-type_get</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary> Represents a class Obj</summary>
+        </member>
+        <member name="M:Obj.Print(System.Object)">
+            <summary> Method that verifies if object obj is a subclass</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp3.1\9-shape.genruntimeconfig.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp3.1\9-shape.xml

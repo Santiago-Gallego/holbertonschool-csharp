@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary> Represents a class Shape</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary> Not implemented method Area()</summary>
+        </member>
+    </members>
+</doc>

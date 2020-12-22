@@ -1,0 +1,14 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp3.1\4-inherit.genruntimeconfig.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp3.1\4-inherit.xml

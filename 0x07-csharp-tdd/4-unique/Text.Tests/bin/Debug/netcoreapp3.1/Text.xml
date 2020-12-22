@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary> Represents a class Str</summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary> returns first unique character in string</summary>
+        </member>
+    </members>
+</doc>
