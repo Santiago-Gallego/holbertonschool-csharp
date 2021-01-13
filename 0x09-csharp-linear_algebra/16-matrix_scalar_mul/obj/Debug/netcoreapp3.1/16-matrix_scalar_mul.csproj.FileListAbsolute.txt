@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp3.1\16-matrix_scalar_mul.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp3.1\16-matrix_scalar_mul.genruntimeconfig.cache

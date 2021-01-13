@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\netcoreapp3.1\18-matrix_matrix_mul.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\netcoreapp3.1\18-matrix_matrix_mul.genruntimeconfig.cache

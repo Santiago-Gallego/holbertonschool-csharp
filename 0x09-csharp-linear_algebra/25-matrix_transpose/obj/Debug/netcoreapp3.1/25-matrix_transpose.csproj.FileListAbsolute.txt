@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp3.1\25-matrix_transpose.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp3.1\25-matrix_transpose.genruntimeconfig.cache

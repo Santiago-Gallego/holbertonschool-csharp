@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp3.1\30-cross_product.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp3.1\30-cross_product.genruntimeconfig.cache

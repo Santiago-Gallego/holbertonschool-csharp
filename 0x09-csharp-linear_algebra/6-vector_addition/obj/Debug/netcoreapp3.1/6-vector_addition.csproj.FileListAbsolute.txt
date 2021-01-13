@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp3.1\6-vector_addition.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp3.1\6-vector_addition.genruntimeconfig.cache
